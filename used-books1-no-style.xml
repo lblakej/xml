@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<used_collection>
+  <book>
+      <author>Itten, Johannes</author>
+      <title>The Elements of Color</title>
+      <list_price>24.95</list_price>
+      <publish_date>1970-12-01</publish_date>
+      <description>A Treatise on the Color System of Johannes Itten
+      Based on His Book the Art of Color</description>
+      <purchase_price>5.98</purchase_price>
+      <purchase_date>2010-12-20</purchase_date>
+    </book>
+  <book>
+      <author>Lupton, Ellen</author>
+      <title>Thinking with Type, 2nd revised and expanded edition</title>
+      <list_price>24.95</list_price>
+      <publish_date>2010-10-01</publish_date>
+      <description>A Critical Guide for Designers, Writers, Editors, &amp; Students</description>
+      <purchase_price>7.00</purchase_price>
+      <purchase_date>2016-10-10</purchase_date>
+  </book>
+  <book>
+      <author>Stephanie Lipscomb; Debra N. Mancoff; Sylvia Wolf; Julia Margaret Pattle Cameron; Phyllis Rose</author>
+      <title>Julia Margaret Cameron's Women</title>
+      <list_price>29.95</list_price>
+      <publish_date>1998-08-01</publish_date>
+      <description>Published in conjunction with the exhibition "Julia Margaret Cameron's Women,"
+      organized by The Art Institute of Chicago</description>
+      <purchase_price>9.98</purchase_price>
+      <purchase_date>2011-09-28</purchase_date>
+  </book>
+  <book>
+      <author>Poppy Evans; Mark A. Thomas</author>
+      <title>Exploring the Elements of Design</title>
+      <list_price>112.95</list_price>
+      <publish_date>2007-08-01</publish_date>
+      <description>An Introduction to the Essential Principles, Elements &amp; 
+      Concepts of Visual Communication</description>
+      <purchase_price>5.00</purchase_price>
+      <purchase_date>2016-10-10</purchase_date>
+  </book>
+</used_collection>

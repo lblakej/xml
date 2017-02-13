@@ -1,0 +1,55 @@
+/*** XML demonstration ***/
+
+planet:before {     /* http://www.w3schools.com/cssref/sel_before.asp */
+  display: block;
+  width: 8em;
+  font-weight: bold;
+  font-size: 200%;
+  content: "Oceans";
+  margin: -.75em 0px .25em -.25em;   /* T R B L - Top, Right, Bottom, Left - TROUBLE or TREBLE is a way to remember this */
+  padding: .1em .25em;              /*  https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties  */
+  background-color: red;
+  }
+
+planet {
+  display: block;
+  margin: 2em 1em;
+  border: 4px solid blue;
+  padding: 0px 1em;
+  background-color: white;
+  }
+
+ocean {
+  display: block;
+  margin-bottom: 1em;   
+  }
+
+name {
+  display: block;
+  font-weight: bold;
+  font-size: 150%;
+  }
+
+area {
+  display: block;
+  }
+
+area:before {
+  content: "Area: ";
+  }
+
+area:after {
+  content: " million km\B2";
+  }
+
+depth {
+  display: block;
+  }
+
+depth:before {
+  content: "Mean depth: ";
+  }
+
+depth:after {
+  content: " m";
+}
