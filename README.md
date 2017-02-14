@@ -15,4 +15,6 @@ In this exercise we will log into OPAL and clone this repository. Then we will d
 
 The 9style.css file introduces the css pseudo classes ```:before``` and ```:after```. These are not commonly used in html files, but they are very useful in working with xml.
 
-Note that the 9style.css file uses css Shorthand properties. See comments on line 9 and 10. 
+Note that the 9style.css file uses css [Shorthand properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties). See comments on line 9 and 10. 
+
+
